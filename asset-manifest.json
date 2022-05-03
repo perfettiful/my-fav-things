@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-fav-things/static/css/main.68334345.css",
+    "main.js": "/my-fav-things/static/js/main.f4f614a2.js",
+    "index.html": "/my-fav-things/index.html",
+    "main.68334345.css.map": "/my-fav-things/static/css/main.68334345.css.map",
+    "main.f4f614a2.js.map": "/my-fav-things/static/js/main.f4f614a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68334345.css",
+    "static/js/main.f4f614a2.js"
+  ]
+}
