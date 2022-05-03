@@ -37,15 +37,18 @@ function App() {
       },
     }));
     setItemCount(itemCount + 1);
+    setItemName("");
+
   };
 
   return (
     <div className="container">
-      <h1>React Tier List</h1>
+      <h1>Nathan's Favs Tier List</h1>
       <br></br>
       <input className="form-control "
       type="text"
       placeholder="Add An Item"
+      value={itemInput}
       onChange={(e)=> {setItemName(e.target.value)}}
       ></input>
 

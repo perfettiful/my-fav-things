@@ -165,7 +165,7 @@ function CreateTierListContainer(props) {
               />
             );
           })}
-          <FullScreenButton onClick={handleFullScreen}>[ ]</FullScreenButton>
+          <FullScreenButton onClick={handleFullScreen}>&#8600;</FullScreenButton>
         </TierListContainer>
         <TierRow
           key={"row-tray"}
