@@ -6,6 +6,7 @@ const TestItemContainer = styled.div`
   display: inline-block;
   overflow: hidden;
   ${(props) => !props.backgroundImage && "box-shadow: inset 0 0 10px #000; "};
+  color:black;
 
   padding:10px;
   height: 60px;

@@ -52,7 +52,7 @@ function App() {
       onChange={(e)=> {setItemName(e.target.value)}}
       ></input>
 
-      <button className="btn btn-lg btn-primary m-2" onClick={addItem}>Add</button>
+      <button className="btn btn-lg btn-success m-2" onClick={addItem}>Add</button>
       <br></br>
       
       <CreateTierListContainer
