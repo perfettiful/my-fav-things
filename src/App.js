@@ -43,7 +43,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>Nathan's Favs Tier List</h1>
+      <h1>👑 Nathan's Favs Tier List 👑</h1>
       <br></br>
       <input className="form-control "
       type="text"
